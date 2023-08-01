@@ -14,7 +14,7 @@ Olá, meu nome é **Joarez Ximenes**! Tenho 22 anos e sou **Desenvolvedor Web**
 - Javascript (ES6+)
 - TypeScript
 - HTML (5) & CSS (3)
-- React (+ Redux, + Hooks, ContextAPI)
+- React 
 
 
 Contatos:  [Linkedin](https://www.linkedin.com/in/joarezximenes/ "Linkedin Joarez Ximenes") ou [email](mailto:joarezximenesleitejunior@gmail.com)
