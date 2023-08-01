@@ -7,7 +7,7 @@ Olá, meu nome é **Joarez Ximenes**! Tenho 22 anos e sou **Desenvolvedor Web**
 
 ### Linguagens de programação, frameworks e database:
 
-- Node.js (+ Express, + Sequelize, API RESTful, arquitetura em camadas)
+- Node.js
 - MongoDB
 - MySQL
 - Docker
