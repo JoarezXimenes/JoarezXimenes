@@ -3,7 +3,7 @@
 	title="Joarez Ximenes" width="20%" height="auto" />
 </a>
 
-Olá, meu nome é **Joarez Ximenes**! Tenho 22 anos e sou **Desenvolvedor Web** 
+Olá, meu nome é **Joarez Ximenes**! Tenho 24 anos e sou **Desenvolvedor Web** 
 
 ### Linguagens de programação, frameworks e database:
 
